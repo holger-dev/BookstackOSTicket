@@ -8,3 +8,6 @@ Script soll Vorschläge von Anleitungen anzeigen, die in Bookstack liegen.
 
 ## Konfiguration
 In Bookstack muss im Profil eines Users ein Token erzeugt werden. Der User muss natürlich auf die zu durchsuchenden Bücher berechtigt sein. Darüber hinaus können noch zu durchsuchende Bücher deifniert werden in der bookstack-search.php
+
+# ToDos
+- Fehler beim Formular beheben
